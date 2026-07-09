@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Abstraction/Abstraction.csproj" />
+  <Project Path="Composition.cs/Composition.cs.csproj" Id="3e37903c-6896-472a-8ee8-409b76bff0e6" />
+  <Project Path="Coupling.cs/Coupling.cs.csproj" Id="61c7a37c-0119-4f55-9a43-af919fc11e80" />
+  <Project Path="Inheritance/Inheritance.csproj" />
+  <Project Path="Liskov Substitution Principle Bad/Liskov Substitution Principle Bad.csproj" Id="d49bf9f2-8dbe-40a0-be1f-44d28f8a4da1" />
+  <Project Path="Liskov Substitution Principle Good/Liskov Substitution Principle Good.csproj" Id="a69b14b8-ea91-4abc-b4b0-a46f1c0595a1" />
+  <Project Path="Open-Closed Principle Good/Open-Closed Principle Good.csproj" Id="5109cd39-147f-4dc7-aab5-f62474f28e2d" />
+  <Project Path="Open-Closed Principle/Open-Closed Principle Bad.csproj" Id="c6ae56ed-5f45-47ba-b42c-66d92802f5cb" />
+  <Project Path="ProjectOne/Encapsulation.csproj" />
+  <Project Path="Single Reponsibility Principle/Single Reponsibility Principle Bad.csproj" Id="ead95be3-42a1-4970-9c42-47c006de67d5" />
+  <Project Path="Single Responsiblity Principle Good/Single Responsiblity Principle Good.csproj" Id="a042dc63-7157-41bc-a72e-3e09083b3f9d" />
+</Solution>
